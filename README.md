@@ -51,4 +51,4 @@ Across multiple structured test scenarios (varying traveler age, budget, cultura
 ## 📁 Repository Structure
 * `source_code.ipynb` - Jupyter / Google Colab notebook containing environment setup, API configurations, and prompt experiment logs[cite: 4, 5].
 * `source_code.py` - Streamlit application code
-* `Final_report.pdf` - Project report detailing prompt engineering strategies, dialogue design, and
+* `Final_report.pdf` - Project report detailing prompt engineering strategies, dialogue design, and comparative experimental results[cite: 3].
