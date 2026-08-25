@@ -1,7 +1,7 @@
 # llm-travel-assistant-streamlit
 
 Markdown
-# Personal Travel Assistant & Multi-LLM Benchmark (COMP8420 Assignment 2)
+# Personal Travel Assistant & Multi-LLM Benchmark
 
 Hi there! 👋 This is my project for postgraduate Natural Language Processing / Text Generation[cite: 3]. It explores building an interactive dialogue system for travel planning while benchmarking cloud-based LLM APIs against local open-source models[cite: 3].
 
